@@ -4,4 +4,4 @@
 
 ### Bios ###
 
-[Bios de los investigadores](https://github.com/labcrimen/bios/edit/main/README.md)
+[Bios de los investigadores](https://labcrimen.github.io/bios/)
