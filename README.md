@@ -10,4 +10,4 @@ LO ESCRIBEN LOS INVESTIGADORES
 
 ### Recursos ###
 
-[Recursos](https://labcrimen.github.io/bios/)
+[Recursos](https://github.com/labcrimen/recursos)
