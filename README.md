@@ -4,7 +4,7 @@
 
 LO ESCRIBEN LOS INVESTIGADORES
 
-### Bios ###
+### Equipo ###
 
 [Bios de los investigadores](https://labcrimen.github.io/bios/)
 
