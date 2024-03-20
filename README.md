@@ -14,4 +14,4 @@ LO ESCRIBEN LOS INVESTIGADORES
 
 ### Publicaciones ###
 
-[Recursos](https://labcrimen.github.io/publicaciones/)
+[Publicaciones](https://labcrimen.github.io/publicaciones/)
