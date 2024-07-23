@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 navigation:
   - label: Inicio
-    url: /
+    url: ./
