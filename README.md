@@ -1,6 +1,6 @@
-## Presentación del proyecto ##
+<!-- ## Presentación del proyecto ## -->
 
-LO ESCRIBEN LOS INVESTIGADORES
+<!-- LO ESCRIBEN LOS INVESTIGADORES -->
 
 ### Equipo ###
 
