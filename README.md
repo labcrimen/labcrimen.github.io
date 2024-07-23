@@ -1,5 +1,3 @@
-# Laboratorio de Crimen y Violencia #
-
 ## Presentación del proyecto ##
 
 LO ESCRIBEN LOS INVESTIGADORES
