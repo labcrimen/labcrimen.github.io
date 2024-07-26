@@ -16,5 +16,5 @@
 
 <div align="right">
   <img src="./ucu.png" alt="UCU" width="30%" height="30%" />
-  <img src="./udelar.png" alt="Udelar" width="20%" height="20%" />
+  <img src="./udelar.png" alt="Udelar" width="30%" height="30%" />
 </div>                                  
