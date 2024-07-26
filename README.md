@@ -13,3 +13,6 @@
 ### Publicaciones ###
 
 [Publicaciones](https://labcrimen.github.io/publicaciones/)
+
+Impulsado por: <img src="./Juan%20Ariel%20Bogliaccini.jpg" alt="" width="50%" height="50%" /> <img src="./Juan%20Ariel%20Bogliaccini.jpg" alt="" width="50%" height="50%" />
+
