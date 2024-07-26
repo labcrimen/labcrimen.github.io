@@ -14,5 +14,9 @@
 
 [Publicaciones](https://labcrimen.github.io/publicaciones/)
 
-                                                            Impulsado por: <img src="./ucu.png" alt="" width="10%" height="10%" /> <img src="./udelar.png" alt="" width="10%" height="10%" />
-
+<div style="text-align: right; margin-left: 30%;">
+  <img src="./ucu.png" alt="UCU" width="20%" height="20%" style="margin-left: 10px;" />
+  <img src="./udelar.png" alt="Udelar" width="10%" height="10%" style="margin-left: 10px;" />
+</div>
+ 
+                                                           
