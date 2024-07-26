@@ -14,5 +14,5 @@
 
 [Publicaciones](https://labcrimen.github.io/publicaciones/)
 
-Impulsado por: <img src="./ucu.png" alt="" width="50%" height="50%" /> <img src="./udelar.png" alt="" width="50%" height="50%" />
+                                                            Impulsado por: <img src="./ucu.png" alt="" width="10%" height="10%" /> <img src="./udelar.png" alt="" width="10%" height="10%" />
 
