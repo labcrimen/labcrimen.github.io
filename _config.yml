@@ -4,5 +4,5 @@ kramdown:
   input: GFM
 plugins:
   - jekyll-feed
-  include:
-  - custom.css
+ include:
+  - assets/css/custom.css
