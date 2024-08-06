@@ -6,4 +6,4 @@ plugins:
   - jekyll-feed
  
  include:
-  - custom.css
+  - assets/css/custom.css
