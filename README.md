@@ -16,11 +16,9 @@
  
 <div align="right">
   <a href="https://www.ucu.edu.uy/" target="_blank">
-    <img src="labcrimen.github.io
-/ucu.png" alt="UCU" width="30%" height="30%" />
+    <img src="ucu.png" alt="UCU" width="30%" height="30%" />
   </a>
   <a href="https://www.udelar.edu.uy/" target="_blank">
-    <img src="labcrimen.github.io
-/udelar.png" alt="Udelar" width="20%" height="20%" />
+    <img src="udelar.png" alt="Udelar" width="20%" height="20%" />
   </a>
 </div>                               
