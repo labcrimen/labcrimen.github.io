@@ -11,5 +11,5 @@ body {
 }
 
 .header {
-    background-color: #3182bd;
+    background-color: #3182bd !important;
 }
