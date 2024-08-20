@@ -10,6 +10,10 @@ body {
   background-color: #3182bd !important;
 }
 
-.header {
-    background-color: #3182bd !important;
+#header_wrap {
+    background-color: #3182bd; /* Cambia el color de fondo a #3182bd */
+}
+
+#header_wrap .inner {
+    background-color: #3182bd; /* Asegúrate de que el color también se aplique al contenedor interno si es necesario */
 }
