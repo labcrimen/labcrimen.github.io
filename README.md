@@ -1,12 +1,11 @@
-<div align="right">
-  <a href="https://www.ucu.edu.uy/" target="_blank">
-    <img src="right.png" alt="UCU" width="30%" height="30%" />
-  </a>
+
   <a href="https://www.udelar.edu.uy/" target="_blank">
     <img src="left.png" alt="Udelar" width="30%" height="30%" />
   </a>
-</div>
-
+  <a href="https://www.ucu.edu.uy/" target="_blank">
+    <img src="right.png" alt="UCU" width="30%" height="30%" />
+  </a>
+  
 <!-- ## Presentación del proyecto ## -->
 
 <!-- LO ESCRIBEN LOS INVESTIGADORES -->
