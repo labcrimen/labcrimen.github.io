@@ -4,11 +4,7 @@
   </a>
 </div>  
 
-  <div align="fixed">
-  <a href="https://www.ucu.edu.uy/" target="_blank">
-    <img src="right.png" alt="UCU" width="30%" height="30%" />
-  </a>
-  </div>  
+
   
 <!-- ## Presentación del proyecto ## -->
 
@@ -36,3 +32,11 @@
     <img src="udelar.png" alt="Udelar" width="20%" height="20%" />
   </a>
 </div>                               
+
+
+
+  <div align="fixed">
+  <a href="https://www.ucu.edu.uy/" target="_blank">
+    <img src="right.png" alt="UCU" width="30%" height="30%" />
+  </a>
+  </div>  
