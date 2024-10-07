@@ -1,4 +1,4 @@
-<div align="fixed">
+<div align="float">
   <a href="https://www.udelar.edu.uy/" target="_blank">
     <img src="left.png" alt="Udelar" width="30%" height="30%" />
   </a>
@@ -35,7 +35,7 @@
 
 
 
-  <div align="fixed">
+  <div align="float">
   <a href="https://www.ucu.edu.uy/" target="_blank">
     <img src="right.png" alt="UCU" width="30%" height="30%" />
   </a>
