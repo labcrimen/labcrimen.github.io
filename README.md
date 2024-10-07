@@ -1,5 +1,5 @@
  <!-- Imagen centrada -->
-  <div class="center-image">
+  <div class="left-image">
     <img src="japproves.png" alt="Imagen centrada">
   </div>
 
