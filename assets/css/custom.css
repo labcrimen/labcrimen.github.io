@@ -18,3 +18,6 @@ body {
     background-color: #3182bd !important; /* Forza el color de fondo del contenedor interno a #3182bd */
 }
 
+#hidden-section {
+    display: none;
+}
