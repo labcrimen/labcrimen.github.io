@@ -1,10 +1,11 @@
-  <div class="left-image">
-    <img src="japproves.png" alt="Imagen a la izquierda">
-  </div>
-
-</body>
-</html>
-
+<div align="right">
+  <a href="https://www.ucu.edu.uy/" target="_blank">
+    <img src="left.png" alt="UCU" width="30%" height="30%" />
+  </a>
+  <a href="https://www.udelar.edu.uy/" target="_blank">
+    <img src="right.png" alt="Udelar" width="20%" height="20%" />
+  </a>
+</div>
 
 <!-- ## Presentación del proyecto ## -->
 
