@@ -8,7 +8,7 @@
 
 ### Recursos ###
 
-<div id="hidden-section">
+<div id="recursos">
     [Recursos](https://labcrimen.github.io/recursos/)
 </div>
 
