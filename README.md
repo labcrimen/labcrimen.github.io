@@ -1,21 +1,4 @@
-
-  /* Estilos para centrar la imagen */
-    .center-image {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh; /* Ocupa toda la altura de la ventana */
-    }
-
-    .center-image img {
-      max-width: 100%; /* Ajusta la imagen para que no exceda el tamaño de la pantalla */
-      height: auto; /* Mantiene la proporción */
-    }
-  </style>
-</head>
-<body>
-
-  <!-- Imagen centrada -->
+ <!-- Imagen centrada -->
   <div class="center-image">
     <img src="japproves.png" alt="Imagen centrada">
   </div>
