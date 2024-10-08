@@ -14,10 +14,6 @@
 
 [Bios de los investigadores](https://labcrimen.github.io/bios/)
 
-<!-- ### Recursos ###
-
-[Recursos]() -->
-
 ### Publicaciones ###
 
 [Publicaciones](https://labcrimen.github.io/publicaciones/)
