@@ -22,3 +22,17 @@ body {
 nav a[href="/recursos"] {
     display: none;
 }
+.side-images {
+    display: flex;
+    justify-content: space-between;
+}
+
+.side-images img {
+    width: 20%;
+    height: auto;
+}
+
+.main-content {
+    width: 60%;
+    text-align: center;
+}
