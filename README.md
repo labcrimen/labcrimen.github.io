@@ -2,6 +2,14 @@
 
 <!-- LO ESCRIBEN LOS INVESTIGADORES -->
 
+<div class="side-images">
+  <img src="./left.png" alt="Left Image" class="left-side">
+  <div class="main-content">
+  </div>
+  <img src="./right.png" alt="Right Image" class="right-side">
+</div
+
+  
 ### Equipo ###
 
 [Bios de los investigadores](https://labcrimen.github.io/bios/)
