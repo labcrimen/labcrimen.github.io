@@ -8,6 +8,10 @@
 
 ### Publicaciones ###
 
+[Recursos](https://labcrimen.github.io/recursos/)
+
+### Publicaciones ###
+
 [Publicaciones](https://labcrimen.github.io/publicaciones/)
  
 <div align="right">
