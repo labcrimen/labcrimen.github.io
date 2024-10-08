@@ -9,7 +9,6 @@
   <img src="./right.png" alt="Right Image" class="right-side">
 </div
 
-  
 ### Equipo ###
 
 [Bios de los investigadores](https://labcrimen.github.io/bios/)
