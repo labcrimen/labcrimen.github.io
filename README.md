@@ -13,6 +13,11 @@
 ### Publicaciones ###
 
 [Publicaciones](https://labcrimen.github.io/publicaciones/)
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="./left.png" alt="Left Image" style="height: 100vh; width: 20%;">
+  <img src="./right.png" alt="Right Image" style="height: 100vh; width: 20%;">
+</div>
  
 <div align="right">
   <a href="https://www.ucu.edu.uy/" target="_blank">
