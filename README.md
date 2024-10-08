@@ -6,9 +6,9 @@
 
 [Bios de los investigadores](https://labcrimen.github.io/bios/)
 
-### Publicaciones ###
+<!-- ### Recursos ###
 
-[Recursos](https://labcrimen.github.io/recursos/)
+[Recursos](https://labcrimen.github.io/recursos/) -->
 
 ### Publicaciones ###
 
