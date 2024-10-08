@@ -16,7 +16,7 @@
 
 <!-- ### Recursos ###
 
-[Recursos](https://labcrimen.github.io/recursos/) -->
+[Recursos]() -->
 
 ### Publicaciones ###
 
