@@ -8,9 +8,7 @@
 
 ### Recursos ###
 
-<div id="recursos">
     [Recursos](https://labcrimen.github.io/recursos/)
-</div>
 
 ### Publicaciones ###
 
