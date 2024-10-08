@@ -22,17 +22,36 @@ body {
 nav a[href="/recursos"] {
     display: none;
 }
-.side-images {
-    display: flex;
-    justify-content: space-between;
+
+.image-left {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 150px; /* Ajusta el ancho según prefieras */
+  height: 100%;
+  z-index: -1; /* Para que esté detrás del contenido */
 }
 
-.side-images img {
-    width: 20%;
-    height: auto;
+.image-left img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
-.main-content {
-    width: 60%;
+.image-right {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 150px; /* Ajusta el ancho según prefieras */
+  height: 100%;
+  z-index: -1; /* Para que esté detrás del contenido */
+}
+
+.image-right img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+width: 60%;
     text-align: center;
 }
