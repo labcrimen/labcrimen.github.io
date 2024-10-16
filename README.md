@@ -19,7 +19,7 @@
 
 ### Recursos ###
 
-[Recursos](https://labcrimen.github.io/recursos.git/)
+[Recursos](https://labcrimen.github.io/recursos/)
 
 <div style="display: flex; justify-content: space-between;">
   <img src="./left.png" alt="Left Image" style="height: 100vh; width: 20%;">
