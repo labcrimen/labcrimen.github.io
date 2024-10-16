@@ -13,6 +13,10 @@
 
 [Bios de los investigadores](https://labcrimen.github.io/bios/)
 
+### Recursos ###
+
+[Recursos Audiovisuales](https://labcrimen.github.io/recursos/)
+
 ### Publicaciones ###
 
 [Publicaciones](https://labcrimen.github.io/publicaciones/)
