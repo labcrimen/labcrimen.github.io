@@ -13,13 +13,13 @@
 
 [Bios de los investigadores](https://labcrimen.github.io/bios/)
 
-### Recursos ###
-
-[Recursos Audiovisuales](https://labcrimen.github.io/recursos/)
-
 ### Publicaciones ###
 
 [Publicaciones](https://labcrimen.github.io/publicaciones/)
+
+### Recursos ###
+
+[Recursos Audiovisuales](https://labcrimen.github.io/recursos/)
 
 <div style="display: flex; justify-content: space-between;">
   <img src="./left.png" alt="Left Image" style="height: 100vh; width: 20%;">
