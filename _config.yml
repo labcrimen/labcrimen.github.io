@@ -1,9 +1,1 @@
 theme: jekyll-theme-slate
-markdown: kramdown
-kramdown:
-  input: GFM
-plugins:
-  - jekyll-feed
- 
- include:
-  - assets/css/custom.css
